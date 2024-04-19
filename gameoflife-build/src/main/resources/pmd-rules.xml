@@ -16,10 +16,6 @@
     <rule ref="rulesets/design.xml/AvoidDeeplyNestedIfStmts"/>
     <rule ref="rulesets/design.xml/AvoidReassigningParameters"/>
     <rule ref="rulesets/design.xml/SwitchDensity"/>
-    <rule ref="rulesets/design.xml/ConstructorCallsOverridableMethod"/>
-    <rule ref="rulesets/design.xml/AccessorClassGeneration"/>
-    <rule ref="rulesets/design.xml/FinalFieldCouldBeStatic"/>
-    <rule ref="rulesets/design.xml/CloseResource"/>
     <rule ref="rulesets/design.xml/NonStaticInitializer"/>
     <rule ref="rulesets/design.xml/DefaultLabelNotLastInSwitchStmt"/>
     <rule ref="rulesets/design.xml/NonCaseLabelInSwitchStatement"/>
